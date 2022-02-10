@@ -6,6 +6,8 @@ public class SampleData {
 		
 		System.out.println("sample 1");
 		
+		System.out.println("Yagami codes");
+		
 	}
 
 }
