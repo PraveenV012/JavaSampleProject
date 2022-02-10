@@ -10,7 +10,10 @@ public class SampleData {
 		System.out.println("Shelby codes");
 
 		System.out.println("Yagami codes");
+		
+		System.out.println("Namra codes");
 
+		System.out.println("onjo codes");
 		
 	}
 
